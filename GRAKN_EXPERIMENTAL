@@ -1,0 +1,3 @@
+Based-on: protocolbuffers/protobuf#v3.6.1.3
+Merged-in: fixes which prevent rules usage with newest bazel
+Reset-when: protocolbuffers/protobuf#v3.7.0 is released 
